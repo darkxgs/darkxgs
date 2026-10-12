@@ -1,72 +1,133 @@
-# 💫 About Me:
-🔭 I’m currently working as a web developer, building modern websites and integrating AI-powered features into real-world applications.  
-👯 I’m looking to collaborate on full-stack web projects, especially those that blend AI with user-centric design.  
-🤝 I’m looking for help with scaling web platforms and launching e-commerce businesses.  
-🌱 I’m currently learning more about advanced AI integrations and performance optimization in web development.  
-💬 Ask me about web development (frontend & backend), AI integration, or launching an online business.  
-⚡ Fun fact: I love building side projects that combine creativity, code, and automation—sometimes all in one night!
+<a href="https://www.seifashraf.dev">
+  <img src="assets/header.svg" alt="Seif Ashraf, full-stack and mobile developer in Cairo, Egypt. I build the systems small businesses run on." width="100%">
+</a>
 
----
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/seif.ashraf.461508)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seif_ashrafg)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/seifashrafshawky)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gs_.dark)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThisIsDDark)
+[![Portfolio](https://img.shields.io/badge/Portfolio-seifashraf.dev-d97b4a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.seifashraf.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seifashraf--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seifashraf-dev/)
+[![Email](https://img.shields.io/badge/Email-hello%40seifashraf.dev-15181d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@seifashraf.dev)
+[![CV](https://img.shields.io/badge/Download-CV-f2efe6?style=for-the-badge&logo=readdotcv&logoColor=0b0d10)](https://www.seifashraf.dev/Seif_Ashraf_CV.pdf)
 
----
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## About me
 
----
+I'm a full-stack and mobile developer in Cairo with three years of experience shipping production software end to
+end, from database design to the last pixel of the UI. I build live social apps, business platforms and client
+websites with **React, Next.js, React Native, Laravel and Supabase**.
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=darkxgs&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkxgs&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+Arabic-first and bilingual **Arabic/English** builds with proper right-to-left layout are a specialty. I work in short
+cycles: clients see working software in the first weeks, and we adjust while changes are still cheap.
 
----
+- 📱 **Now:** Full-stack mobile developer at **LinkUp**, a live audio-room social app (React Native, Firebase, Agora)
+- 🛒 **Building:** **Yanal Tech**, an e-commerce and operations platform for a tech retail and telecom company (Laravel, Filament)
+- 🧰 **Freelance:** websites, booking systems and back-office software for small businesses, from scoping to support
+- 🌍 **Languages:** Arabic (native), English (professional)
 
+## Featured work
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.seifashraf.dev/projects/car-engineering-center"><img src="assets/cec.jpg" alt="Car Engineering Center workshop platform dashboard in Arabic"></a>
+      <h3>Car Engineering Center</h3>
+      <sub><b>IN PRODUCTION · 4 BRANCHES</b></sub>
+      <p>The Arabic-first platform a car-workshop chain in Iraq runs on every day: work orders priced from inspection checklists, a live workshop floor with per-car countdowns, QR invoices customers track without logging in, and payroll from biometric attendance.</p>
+      <p><code>Next.js</code> <code>React 19</code> <code>TypeScript</code> <code>Supabase</code><br><sub>34 screens · 12 tables · ~29,500 lines · 309 commits</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.seifashraf.dev/projects/neowave"><img src="assets/neowave.jpg" alt="NeoWave website homepage"></a>
+      <h3>NeoWave</h3>
+      <sub><b>LIVE · WEBSITE + PRODUCT CONFIGURATOR</b></sub>
+      <p>A full rebuild of an industrial IoT manufacturer's website with an editorial motion system, plus a database-backed product code generator and its own admin: 35 models, 460 options, publish without a redeploy.</p>
+      <p><code>JavaScript</code> <code>GSAP</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Vercel</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.seifashraf.dev/projects/salad-store"><img src="assets/salad-store.jpg" alt="Salad Store bilingual ordering website"></a>
+      <h3>Salad Store</h3>
+      <sub><b>LIVE · CAIRO</b></sub>
+      <p>A bilingual Arabic/English ordering site for a Heliopolis salad bar. Every dish, meal plan and custom salad opens WhatsApp with the order already written, and a salad builder prices and counts calories live.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>AR/EN RTL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.seifashraf.dev/projects/blue-sky-events"><img src="assets/blue-sky.jpg" alt="Blue Sky Events concept website"></a>
+      <h3>Blue Sky Events</h3>
+      <sub><b>CONCEPT REBUILD</b></sub>
+      <p>A bilingual concept site for a Cairo congress and exhibition company, built only from its published record, with true RTL, an editorial motion system and a page under 1.5 MB.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>GSAP</code></p>
+    </td>
+  </tr>
+</table>
 
----
+<p align="center"><a href="https://www.seifashraf.dev/projects"><b>See every project and the interactive demos →</b></a></p>
 
-[![](https://visitcount.itsvg.in/api?id=darkxgs&icon=0&color=0)](https://visitcount.itsvg.in)
+## Experience
 
+| Role | Where | When |
+| --- | --- | --- |
+| **Full-Stack Mobile Developer** | LinkUp (LINKUP LIVE CHAT LLC, USA) · remote | Jun 2026 – present |
+| **Freelance Full-Stack Developer** | [seifashraf.dev](https://www.seifashraf.dev) · remote | ongoing |
+| **Full-Stack Developer** | NeoWave · remote | Feb – Mar 2025 |
+| **Web Developer** | Ejada · remote | Feb – Mar 2025 |
 
+<details>
+<summary><b>Highlights from LinkUp</b></summary>
+<br>
+
+- Audited a ~650-file TypeScript codebase and wrote a prioritized fix plan: an 8,000-line god component, a logic bug
+  in host tasks, and silently swallowed errors in the auth and payment paths.
+- Led QA and bug triage: merged tester reports from three Arabic sources into one 58-item English tracker and shipped
+  fixes in reviewed rounds.
+- Designed IP-based country scoping for the admin dashboard, VPN edge cases included, and wrote the team's coding
+  standards for feature branches, pull requests and code review.
+
+</details>
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS"><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,supabase,firebase,postgres,mysql&theme=dark" alt="Node.js, Express, Laravel, PHP, Supabase, Firebase, PostgreSQL, MySQL"><br>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vercel&theme=dark" alt="Java, Python, Git, GitHub, Vercel">
+</p>
+
+| Area | Tools |
+| --- | --- |
+| **Front end & mobile** | React, Next.js, React Native (Expo), Tailwind CSS, responsive and RTL design |
+| **Back end & data** | Node.js, Express, Laravel, Supabase, Firebase, PostgreSQL, MySQL, REST APIs, authentication |
+| **Realtime & integrations** | Agora, LiveKit, Supabase Realtime, Twilio (SMS, WhatsApp OTP) |
+| **Process** | Git and pull requests, code review, QA and bug triage, code audits, Vercel |
+
+## Education
+
+**Misr International Computer Academy (MICA)**, Giza · Diploma, 2026
+<br><sub>Graduation project: a software system for the Ministry of Industry and Trade</sub>
+
+🏅 Oracle Academy award, Java Fundamentals · 🤖 RoboCup MICA Egypt 2025, certificate of achievement · ☕ MICA Java Summer Camp
+
+## Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=darkxgs&background=0B0D10&border=2A2E35&ring=D97B4A&fire=E8955F&currStreakNum=F2EFE6&sideNums=F2EFE6&currStreakLabel=E8955F&sideLabels=B9B3A6&dates=8D877B&hide_border=false" alt="GitHub contribution streak">
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkxgs/darkxgs/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkxgs/darkxgs/output/github-snake.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/darkxgs/darkxgs/output/github-snake.svg">
 </picture>
+
+---
+
+<div align="center">
+
+**Have a project in mind?** I'm open to freelance work.
+<br>
+[hello@seifashraf.dev](mailto:hello@seifashraf.dev) · [seifashraf.dev](https://www.seifashraf.dev) · [LinkedIn](https://www.linkedin.com/in/seifashraf-dev/)
+
+<sub>[X](https://x.com/ThisIsDDark) · [Instagram](https://www.instagram.com/seif_ashrafg/)</sub>
+
+</div>
