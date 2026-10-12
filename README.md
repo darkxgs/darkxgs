@@ -128,6 +128,6 @@ cycles: clients see working software in the first weeks, and we adjust while cha
 <br>
 [hello@seifashraf.dev](mailto:hello@seifashraf.dev) · [seifashraf.dev](https://www.seifashraf.dev) · [LinkedIn](https://www.linkedin.com/in/seifashraf-dev/)
 
-<sub>[X](https://x.com/ThisIsDDark) · [Instagram](https://www.instagram.com/seif_ashrafg/)</sub>
+<sub>[Instagram](https://www.instagram.com/seif_ashrafg/)</sub>
 
 </div>
