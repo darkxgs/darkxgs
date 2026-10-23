@@ -53,11 +53,11 @@ cycles: clients see working software in the first weeks, and we adjust while cha
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>AR/EN RTL</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.seifashraf.dev/projects/blue-sky-events"><img src="assets/blue-sky.jpg" alt="Blue Sky Events concept website"></a>
-      <h3>Blue Sky Events</h3>
-      <sub><b>CONCEPT REBUILD</b></sub>
-      <p>A bilingual concept site for a Cairo congress and exhibition company, built only from its published record, with true RTL, an editorial motion system and a page under 1.5 MB.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>GSAP</code></p>
+      <a href="https://www.seifashraf.dev/projects/mawid"><img src="assets/mawid.jpg" alt="Mawid booking platform homepage: a receptionist at a Dubai clinic, with the Arabic word موعد"></a>
+      <h3>Mawid</h3>
+      <sub><b>OWN PRODUCT · LIVE DEMO</b></sub>
+      <p>An Arabic-first booking platform for Gulf clinics: patient booking pages, a live team schedule, WhatsApp reminders and a bilingual front-desk assistant. Double bookings are blocked by the database itself. <a href="https://mawid-bay.vercel.app">Try the demo clinic</a> · <a href="https://github.com/darkxgs/mawid">source</a></p>
+      <p><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Drizzle</code></p>
     </td>
   </tr>
 </table>
